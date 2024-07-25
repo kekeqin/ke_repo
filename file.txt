@@ -1,2 +1,0 @@
-Git is a version control sysem.
-Git is a free software.这是第二个文件
